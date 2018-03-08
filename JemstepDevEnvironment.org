@@ -51,6 +51,15 @@ But to me, that's what her dinner tasted like.
 When I die, I want to die peacefully, in my sleep, like my grandpa did. Not like
 the screaming passengers in his car.
 
+* Summary
+
+#+ATTR_REVEAL: :frag (appear)
+  1. Thing 1
+  2. Thing 2
+  3. Thing 3
+  4. Thing 4
+  5. Thing 5
+
 * Conclusion
 :PROPERTIES:
 :reveal_background: ./images/forest-gnome.jpeg
