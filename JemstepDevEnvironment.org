@@ -18,11 +18,15 @@ an investment management company with $970 billion Assets Under Management.
 
 Two years later, and Jemstep has grown from a team of 18 people to about 90, spread across 4 continents.
 
-#+REVEAL: split
+* Where we're coming from (2016)
 
-Along the way we created a squad to focus solely on “Developer Productivity”.
+#+ATTR_REVEAL: :frag (appear)
+  - About n lines of (mostly) Scala code
+  - Automated build pipelines, with automated deployments
+  - Automated deployments about once per day, triggered by QA
+  - 18 people: 5 developers, 2 testers, some investment specialists, product
+    managers, customer support
 
-This is what we are learning. We hope some of it may be useful in your teams as well.
 
 * Thing 1
 
