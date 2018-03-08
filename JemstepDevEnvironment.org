@@ -1,20 +1,13 @@
-#+TITLE: Towards a great developer experience
+#+TITLE: Towards a great Developer Experience
 #+AUTHOR: Andreas Pauley & Kevin Trethewey
 #+DATE: 13 March 2018
-#+REVEAL_THEME: moon
-#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_TRANS: default
 #+OPTIONS: toc:nil, reveal_title_slide:nil, num:nil
-#+REVEAL_PLUGINS: (notes highlight)
-#+PROPERTY: results output
-#+PROPERTY: exports code
 
 * How do you create a great environment for developers?
 
  5 things we learned along the Jemstep journey
-
-Andreas Pauley & Kevin Trethewey
-
-13 March 2018
 
 * Introduction
 
@@ -35,7 +28,6 @@ This is what we are learning. We hope some of it may be useful in your teams as 
 
 If you really want to impress people, add the words “blockchain” to the end of
 everything you say, blockchain.
-
 
 * Thing 2
 
@@ -60,3 +52,7 @@ When I die, I want to die peacefully, in my sleep, like my grandpa did. Not like
 the screaming passengers in his car.
 
 * Conclusion
+:PROPERTIES:
+:reveal_background: ./images/forest-gnome.jpeg
+:reveal_background_trans: slide
+:END:
