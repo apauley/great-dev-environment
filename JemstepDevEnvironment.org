@@ -1,0 +1,53 @@
+#+TITLE: How do you create a great environment for developers?
+#+AUTHOR: Andreas Pauley & Kevin Trethewey
+#+REVEAL_THEME: black
+#+REVEAL_TRANS: linear
+#+OPTIONS: toc:nil, reveal_title_slide:nil, num:nil
+#+REVEAL_PLUGINS: (notes highlight)
+#+PROPERTY: results output
+#+PROPERTY: exports code
+
+* How do you create a great environment for developers?
+
+ 5 things we learned along the Jemstep journey
+
+* Introduction
+
+In 2016 a small South African startup with 18 employees in total was acquired by Invesco,
+an investment management company with $970 billion Assets Under Management.
+
+Two years later, and Jemstep has grown from a team of 18 people to about 90, spread across 4 continents.
+
+Along the way we created a squad to focus solely on "Developer Productivity".
+
+This is what we are learning. We hope some of it may be useful in your teams as well.
+
+* Thing 1
+
+If you really want to impress people, add the words “blockchain” to the end of
+everything you say, blockchain.
+
+
+* Thing 2
+
+Before you criticize someone, walk a mile in their shoes. That way you are a
+mile away from them and you have their shoes.
+
+
+* Thing 3
+
+“Build a man a fire, and he'll be warm for a day. Set a man on fire, and he'll
+be warm for the rest of his life.”
+
+
+* Thing 4
+
+Laurie got offended that I used the word “puke.”
+But to me, that's what her dinner tasted like.
+
+* Thing 5
+
+When I die, I want to die peacefully, in my sleep, like my grandpa did. Not like
+the screaming passengers in his car.
+
+* Conclusion
