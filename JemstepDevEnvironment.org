@@ -18,7 +18,7 @@ an investment management company with $970 billion Assets Under Management.
 
 Two years later, and Jemstep has grown from a team of 18 people to about 90, spread across 4 continents.
 
-* Where we're coming from (2016)
+* Where we are coming from (2016)
 
 #+ATTR_REVEAL: :frag (appear)
   - About n lines of (mostly) Scala code
@@ -27,6 +27,7 @@ Two years later, and Jemstep has grown from a team of 18 people to about 90, spr
   - 18 people: 5 developers, 2 testers, some investment specialists, product
     managers, customer support
 
+* What we are learning about our Developer Experience
 
 * Thing 1
 
@@ -54,6 +55,12 @@ But to me, that's what her dinner tasted like.
 
 When I die, I want to die peacefully, in my sleep, like my grandpa did. Not like
 the screaming passengers in his car.
+
+* What we struggle with
+
+* What we are focusing on now
+
+* Where to next?
 
 * Summary
 
