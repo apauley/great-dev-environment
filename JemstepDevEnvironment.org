@@ -1,6 +1,7 @@
-#+TITLE: How do you create a great environment for developers?
+#+TITLE: Towards a great developer experience
 #+AUTHOR: Andreas Pauley & Kevin Trethewey
-#+REVEAL_THEME: black
+#+DATE: 13 March 2018
+#+REVEAL_THEME: moon
 #+REVEAL_TRANS: linear
 #+OPTIONS: toc:nil, reveal_title_slide:nil, num:nil
 #+REVEAL_PLUGINS: (notes highlight)
@@ -11,14 +12,22 @@
 
  5 things we learned along the Jemstep journey
 
+Andreas Pauley & Kevin Trethewey
+
+13 March 2018
+
 * Introduction
 
 In 2016 a small South African startup with 18 employees in total was acquired by Invesco,
 an investment management company with $970 billion Assets Under Management.
 
+#+REVEAL: split
+
 Two years later, and Jemstep has grown from a team of 18 people to about 90, spread across 4 continents.
 
-Along the way we created a squad to focus solely on "Developer Productivity".
+#+REVEAL: split
+
+Along the way we created a squad to focus solely on “Developer Productivity”.
 
 This is what we are learning. We hope some of it may be useful in your teams as well.
 
