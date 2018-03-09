@@ -80,11 +80,28 @@ Ansible FTW
   - Deploy your first code to production
   - Onboarding time: less than a day
 
-* Thing 3
+* 3. Maintaining our agile startup culture as we grow is hard
 
-“Build a man a fire, and he'll be warm for a day. Set a man on fire, and he'll
-be warm for the rest of his life.”
+#+ATTR_REVEAL: :frag (appear)
+  - Knowledge sharing among 5 vs 30 developers
+  - More time zones
+  - Code quality and coding standards
+  - Keep doing daily deployments
 
+** We try to automate the technical aspects as far as possible
+
+** Compile-time static analysis
+
+We like a functional programming style.
+Our compiler can detect a lot of that.
+WartRemover Scala plugin FTW.
+
+** Try to talk to each other as much as possible
+
+#+ATTR_REVEAL: :frag (appear)
+  - Frequent conference calls to the US, Argentina, Peru and India
+  - Encourage pair-programming
+  - Slack
 
 * Thing 4
 
