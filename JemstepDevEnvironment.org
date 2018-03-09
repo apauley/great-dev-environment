@@ -10,7 +10,6 @@
  5 things we are learning along the Jemstep journey
 
 * Introduction
-
 In 2016 a small South African startup with 18 employees in total was acquired by Invesco,
 an investment management company with $970 billion Assets Under Management.
 
@@ -18,7 +17,7 @@ an investment management company with $970 billion Assets Under Management.
 
 Two years later, and Jemstep has grown from a team of 18 people to about 90, spread across 4 continents.
 
-* Where we are coming from (2016)
+* Where we came from (2016)
 
 #+ATTR_REVEAL: :frag (appear)
   - About n lines of (mostly) Scala code
