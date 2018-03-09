@@ -128,6 +128,12 @@ Slack, Zoom, Git
 
 * What we struggle with
 
+** Turn-around time for developing new features
+
+Build and tests takes about an hour.
+
+** Brittle Selenium acceptance tests
+
 * What we are focusing on now
 
 * Where to next?
