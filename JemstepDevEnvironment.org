@@ -20,19 +20,20 @@ Two years later, and Jemstep has grown from a team of 18 people to about 90, spr
 * Where we came from (2016)
 
 #+ATTR_REVEAL: :frag (appear)
-  - About 100,000 lines of Scala code
-  - About 60,000 lines of JavaScript/CSS/HTML
+  - About 100,000 lines of  Scala code
   - Automated build pipelines, with automated deployments
   - Automated deployments about once per day, triggered by QA
   - 18 people: 5 developers, 2 testers, some investment specialists, product
     managers, customer support
 
 * What we are learning about our Developer Experience
+ 
+* 1. Unproductive time multiplies as teams grow
 
-* Thing 1
+[[./images/compiling.png]]
 
-If you really want to impress people, add the words “blockchain” to the end of
-everything you say, blockchain.
+** We created a dedicated “Developer Productivity” squad
+
 
 * Thing 2
 
