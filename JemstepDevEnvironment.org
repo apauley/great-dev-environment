@@ -104,10 +104,25 @@ WartRemover Scala plugin FTW.
   - Encourage pair-programming
   - Slack
 
-* Thing 4
+* 4. Adding developers reduces productivity
 
-Laurie got offended that I used the word “puke.”
-But to me, that's what her dinner tasted like.
+#+ATTR_REVEAL: :frag (appear)
+  - New and novice developers need the attention of established developers
+  - Off-site squads are all new and novice, initially.
+
+** We flew to meet the first remote developers in person
+
+Code walkthroughs, product walkthroughs, developer environments
+
+** Remote pairing
+
+Slack, Zoom, Git
+
+** Everyday Slack messaging
+
+** Weekly Scrums (teleconferences)
+
+** The automated developer setup is really paying off here
 
 * Thing 5
 
@@ -122,7 +137,6 @@ the screaming passengers in his car.
 
 * Summary
 
-#+ATTR_REVEAL: :frag (appear)
   1. Thing 1
   2. Thing 2
   3. Thing 3
