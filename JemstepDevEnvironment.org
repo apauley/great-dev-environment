@@ -22,7 +22,7 @@ Two years later, and Jemstep has grown from a team of 18 people to about 90, spr
 #+ATTR_REVEAL: :frag (appear)
   - About 100,000 lines of  Scala code
   - About 60,000 lines of JavaScript/CSS/HTML
-  - Automated build pipelines, with automated deployments
+  - Automated build pipelines
   - Automated deployments about once per day, triggered by QA
   - 12 people in South Africa: 5 developers, 3 testers, 1 DevOp, some investment
     specialists etc
