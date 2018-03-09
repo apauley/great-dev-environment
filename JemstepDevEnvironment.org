@@ -110,6 +110,8 @@ WartRemover Scala plugin FTW.
   - New and novice developers need the attention of established developers
   - Off-site squads are all new and novice, initially.
 
+* 5. Time-zones are hard
+
 ** We flew to meet the first remote developers in person
 
 Code walkthroughs, product walkthroughs, developer environments
@@ -123,11 +125,6 @@ Slack, Zoom, Git
 ** Weekly Scrums (teleconferences)
 
 ** The automated developer setup is really paying off here
-
-* Thing 5
-
-When I die, I want to die peacefully, in my sleep, like my grandpa did. Not like
-the screaming passengers in his car.
 
 * What we struggle with
 
