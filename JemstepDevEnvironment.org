@@ -43,7 +43,7 @@ Fast, reproducible and stable.
 
 #+ATTR_REVEAL: :frag (appear)
   - Lots of new developers joining our Sandton office
-  - Remote locations: Argentina, Peru, India
+  - Remote locations: California, Argentina, Peru, India
 
 ** Onboarding experience in 2014
 
