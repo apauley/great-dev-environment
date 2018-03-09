@@ -120,7 +120,9 @@ Code walkthroughs, product walkthroughs, developer environments
 
 ** Remote pairing
 
-Slack, Zoom, Git
+Slack, Zoom, Git.
+
+We still need to improve a lot here.
 
 ** Everyday Slack messaging
 
