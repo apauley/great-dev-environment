@@ -52,13 +52,32 @@ Fast, reproducible and stable.
   - Copy some required files from colleagues when you discover you need it
   - Onboarding time: YMMV. Maybe 2 weeks.
 
+** We dockerized the developer environment
+
+From 2015 our onboarding time went down from about 2 weeks to about 3 days.
+
+** Still not good enough
+
+Containers are great, but there are still a lot of setup on the host that had to
+be done manually.
+
 ** We created our own Linux build
 
-** We further automated the developer environment setup
+USB stick in, Linux distro out.
 
-Ansible and Docker FTW
+** We fully automated the developer environment setup
 
-** Automation results
+Ansible FTW
+
+** Onboarding experience in 2017
+
+#+ATTR_REVEAL: :frag (appear)
+  - Log in to a pre-installed custom Linux distro
+  - Run the developer setup ansible scripts
+  - Type in a password or so here and there
+  - Wait for some downloads to finish
+  - Deploy to production
+  - Onboarding time: less than a day
 
 * Thing 3
 
