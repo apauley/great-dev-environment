@@ -5,6 +5,8 @@
 #+REVEAL_TRANS: default
 #+OPTIONS: toc:nil, reveal_title_slide:nil, num:nil
 
+#+MACRO: h2 @@html:<h2><font color="$1">$2</font></h2>@@
+
 * How do you create a great environment for developers?
 
  5 things we are learning along the Jemstep journey
@@ -146,8 +148,13 @@ Build and tests takes about an hour.
   4. Thing 4
   5. Thing 5
 
-* Conclusion
+* Questions?
 :PROPERTIES:
 :reveal_background: ./images/forest-gnome.jpeg
 :reveal_background_trans: slide
 :END:
+
+{{{h2(white,Questions?)}}}
+{{{h2(grey,Questions?)}}}
+{{{h2(white,Questions?)}}}
+{{{h2(grey,Questions?)}}}
