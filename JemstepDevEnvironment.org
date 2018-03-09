@@ -35,11 +35,21 @@ Two years later, and Jemstep has grown from a team of 18 people to about 90, spr
 ** We created a dedicated “Developer Productivity” squad
 
 
-* Thing 2
+* 2. Developer onboarding needs to be excellent
 
-Before you criticize someone, walk a mile in their shoes. That way you are a
-mile away from them and you have their shoes.
+Fast, reproducible and stable.
 
+#+ATTR_REVEAL: :frag (appear)
+  - Lots of new developers joining our Sandton office
+  - Remote locations: Argentina, Peru, India
+
+** We created our own Linux build
+
+** We further automated the developer environment setup
+
+Ansible and Docker FTW
+
+** Automation results
 
 * Thing 3
 
