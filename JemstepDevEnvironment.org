@@ -43,6 +43,15 @@ Fast, reproducible and stable.
   - Lots of new developers joining our Sandton office
   - Remote locations: Argentina, Peru, India
 
+** Onboarding experience in 2014
+
+#+ATTR_REVEAL: :frag (appear)
+  - Figure out what to download and install
+  - Figure out why something works on all other machines except yours
+  - Ask for random pieces of installation instructions as you hit errors
+  - Copy some required files from colleagues when you discover you need it
+  - Onboarding time: YMMV. Maybe 2 weeks.
+
 ** We created our own Linux build
 
 ** We further automated the developer environment setup
