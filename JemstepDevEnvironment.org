@@ -77,7 +77,7 @@ Ansible FTW
   - Run the developer setup ansible scripts
   - Type in a password or so here and there
   - Wait for some downloads to finish
-  - Deploy to production
+  - Deploy your first code to production
   - Onboarding time: less than a day
 
 * Thing 3
