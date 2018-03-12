@@ -89,14 +89,13 @@ Ansible FTW
   - New and novice developers need the attention of established developers
   - Off-site squads are all new and novice, initially.
 
-* 4. Maintaining our agile startup culture as we grow is hard
+* 4. Multi-site development is technically complex
 
 #+ATTR_REVEAL: :frag (appear)
-  - Knowledge sharing among 5 vs 42 developers
   - More time zones
   - Code quality and coding standards
   - Keep doing daily deployments
-  - Security & Compliance
+  - Security & compliance
 
 ** We try to automate the technical aspects as far as possible
 
@@ -106,15 +105,13 @@ We like a functional programming style.
 Our compiler can detect a lot of that.
 WartRemover Scala plugin FTW.
 
-** Try to talk to each other as much as possible
+** The automated developer setup is really paying off in remote teams
+
+
+* 5. Maintaining our agile startup culture as we grow is hard
 
 #+ATTR_REVEAL: :frag (appear)
-  - Frequent conference calls to the US, Argentina, Peru and India
-  - Encourage pair-programming
-  - Slack
-
-
-* 5. Time-zones are hard
+  - Knowledge sharing among 5 vs 42 developers
 
 ** We flew to meet the first remote developers in person
 
@@ -128,9 +125,14 @@ We still need to improve a lot here.
 
 ** Everyday Slack messaging
 
-** Weekly Scrums (teleconferences)
 
-** The automated developer setup is really paying off here
+** Try to hear each other's voices as much as possible
+
+#+ATTR_REVEAL: :frag (appear)
+  - Frequent conference calls to the US, Argentina, Peru and India
+  - Encourage pair-programming
+  - Weekly Scrums (teleconferences) - unblock each other
+
 
 * What we struggle with
 
@@ -156,11 +158,11 @@ We still need to improve a lot here.
 
 * Summary
 
-  1. Treat Developer Productivity as a first-class concern. Automate!
+  1. Treat Developer Productivity as a first-class concern
   2. Developer onboarding needs to be excellent
   3. Plan for decreased productivity when new people start
-  4. Change how you communicate as you grow
-  5. Multi-site development is only for the brave
+  4. Reduce complexity by automating repetitive tasks
+  5. Change how you communicate as you grow
 
 * Questions?
 :PROPERTIES:
