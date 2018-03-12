@@ -90,6 +90,7 @@ Ansible FTW
   - Type in a password or so here and there
   - Wait for some downloads to finish
   - Deploy your first code to production
+  - OK, maybe not yet
   - Onboarding time: less than a day
 
 * 3. Adding developers reduces productivity
