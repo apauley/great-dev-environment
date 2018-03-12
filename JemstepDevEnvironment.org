@@ -105,7 +105,6 @@ Ansible FTW
   - More time zones
   - Code quality and coding standards
   - Keep doing daily deployments
-  - Security & compliance
 
 ** We try to automate the technical aspects as far as possible
 
