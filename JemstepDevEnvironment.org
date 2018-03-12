@@ -121,11 +121,7 @@ WartRemover Scala plugin FTW.
 
 ** Knowledge sharing among 5 vs 42 developers
 
-   [[./images/relationships.jpg]]
-:PROPERTIES:
-:reveal_border: 34px solid
-:reveal_image: 200px
-:END:
+   [[./images/relationships.png]]
 
 ** We flew to meet the first remote developers in person
 
