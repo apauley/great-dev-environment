@@ -86,10 +86,11 @@ Ansible FTW
 * 3. Maintaining our agile startup culture as we grow is hard
 
 #+ATTR_REVEAL: :frag (appear)
-  - Knowledge sharing among 5 vs 30 developers
+  - Knowledge sharing among 5 vs 42 developers
   - More time zones
   - Code quality and coding standards
   - Keep doing daily deployments
+  - Security & Compliance
 
 ** We try to automate the technical aspects as far as possible
 
@@ -134,9 +135,19 @@ We still need to improve a lot here.
 
 ** Turn-around time for developing new features
 
-Build and tests takes about an hour.
+#+ATTR_REVEAL: :frag (appear)
+  - Road-blocks before we can merge, e.g. all tests must pass
+  - Build and tests takes about an hour
+  - Brittle Selenium acceptance tests
+  - 1 failure: wait another hour
 
-** Brittle Selenium acceptance tests
+** Product managers and clients are in the USA
+
+#+ATTR_REVEAL: :frag (appear)
+  - Agile principle: on-site custumer
+  - Knowledge-gap: understanding new requirements
+  - Long turn-around time for questions
+  - Bi-weekly office-hours with US product managers
 
 * What we are focusing on now
 
