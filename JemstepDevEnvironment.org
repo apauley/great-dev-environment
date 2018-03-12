@@ -108,10 +108,15 @@ WartRemover Scala plugin FTW.
 ** The automated developer setup is really paying off in remote teams
 
 
-* 5. Maintaining our agile startup culture as we grow is hard
+* 5. Maintaining our startup culture as we grow is hard
 
-#+ATTR_REVEAL: :frag (appear)
-  - Knowledge sharing among 5 vs 42 developers
+** Knowledge sharing among 5 vs 42 developers
+
+   [[./images/relationships.jpg]]
+:PROPERTIES:
+:reveal_border: 34px solid
+:reveal_image: 200px
+:END:
 
 ** We flew to meet the first remote developers in person
 
