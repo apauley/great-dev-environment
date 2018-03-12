@@ -19,6 +19,15 @@ an investment management company with $970 billion Assets Under Management.
 
 Two years later, and Jemstep has grown from a team of 18 people to about 90, spread across 4 continents.
 
+* Where we are now
+
+** 
+:PROPERTIES:
+:reveal_background: ./images/andre-tweet-inlay.png
+:reveal_background_size: 900px
+:reveal_background_trans: slide
+:END:
+
 * Where we came from (2016)
 
 #+ATTR_REVEAL: :frag (appear)
@@ -29,15 +38,6 @@ Two years later, and Jemstep has grown from a team of 18 people to about 90, spr
   - 12 people in South Africa: 5 developers, 3 testers, 1 DevOp, some investment
     specialists etc
   - 6 people in Silicon Valley: CEO, CTO, Product Managers, UX, Customer Support
-
-* Where we are now
-
-** 
-:PROPERTIES:
-:reveal_background: ./images/andre-tweet-inlay.png
-:reveal_background_size: 900px
-:reveal_background_trans: slide
-:END:
 
 * What we are learning about our Developer Experience
  
@@ -163,11 +163,11 @@ We still need to improve a lot here.
   - Long turn-around time for questions
   - Bi-weekly office-hours with US product managers
 
-* What we are focusing on now
+* What are we focusing on now?
 
 * Where to next?
 
-* Summary
+* 5 things we learned
 
   1. Treat Developer Productivity as a first-class concern
   2. Developer onboarding needs to be excellent
