@@ -30,6 +30,15 @@ Two years later, and Jemstep has grown from a team of 18 people to about 90, spr
     specialists etc
   - 6 people in Silicon Valley: CEO, CTO, Product Managers, UX, Customer Support
 
+* Where we are now
+
+** 
+:PROPERTIES:
+:reveal_background: ./images/andre-tweet-inlay.png
+:reveal_background_size: 900px
+:reveal_background_trans: slide
+:END:
+
 * What we are learning about our Developer Experience
  
 * 1. Unproductive time multiplies as teams grow
