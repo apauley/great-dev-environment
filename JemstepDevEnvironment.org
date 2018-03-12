@@ -123,6 +123,9 @@ WartRemover Scala plugin FTW.
 
    [[./images/relationships.png]]
 
+
+** We generally encourage pair-programming
+
 ** We flew to meet the first remote developers in person
 
 Code walkthroughs, product walkthroughs, developer environments
@@ -135,12 +138,10 @@ We still need to improve a lot here.
 
 ** Everyday Slack messaging
 
-
 ** Try to hear each other's voices as much as possible
 
 #+ATTR_REVEAL: :frag (appear)
   - Frequent conference calls to the US, Argentina, Peru and India
-  - Encourage pair-programming
   - Weekly Scrums (teleconferences) - unblock each other
 
 
