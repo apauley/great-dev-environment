@@ -156,11 +156,11 @@ We still need to improve a lot here.
 
 * Summary
 
-  1. Thing 1
-  2. Thing 2
-  3. Thing 3
-  4. Thing 4
-  5. Thing 5
+  1. Treat Developer Productivity as a first-class concern. Automate!
+  2. Developer onboarding needs to be excellent
+  3. Plan for decreased productivity when new people start
+  4. Change how you communicate as you grow
+  5. Multi-site development is only for the brave
 
 * Questions?
 :PROPERTIES:
