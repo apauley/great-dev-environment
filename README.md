@@ -7,6 +7,6 @@ This is a talk Kevin Trethewey and I delivered at the [Developer User Group on M
 
 The slides have been prepared using [Org-Reveal](https://github.com/yjwen/org-reveal)
 
-The talk can be viewed online at:
+The slides can be viewed online at:
 
 [http://pauley.org.za/great-dev-environment/](http://pauley.org.za/great-dev-environment/)
