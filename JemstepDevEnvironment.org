@@ -9,24 +9,24 @@
 
 * How do you create a great environment for developers?
 
- 5 things we are learning along the Jemstep journey
+5 things we're learning along the *Jemstep* journey
 
 * Introduction
+
 In 2016 a small South African startup with 18 employees in total was acquired by Invesco,
 an investment management company with $970 billion Assets Under Management.
 
+[[./images/za.png]]
+
 #+REVEAL: split
 
-Two years later, and Jemstep has grown from a team of 18 people to about 90, spread across 4 continents.
+Two years later, and *Jemstep* has grown from a team of 18 people to about 90 people, on 4 continents.
+
+[[./images/world.png]]
 
 * Where we are now
 
-** 
-:PROPERTIES:
-:reveal_background: ./images/andre-tweet-inlay.png
-:reveal_background_size: 900px
-:reveal_background_trans: slide
-:END:
+[[./images/tweetandandre.png]]
 
 * Where we came from (2016)
 
@@ -35,14 +35,13 @@ Two years later, and Jemstep has grown from a team of 18 people to about 90, spr
   - About 60,000 lines of JavaScript/CSS/HTML
   - Automated build pipelines
   - Daily deployments, triggered by QA
-  - 12 people in South Africa: 5 developers, 3 testers, 1 DevOp, some investment
+  - 12 people in South Africa: 5 developers, 3 testers, 1 DevOp, some investment 
     specialists etc
   - 6 people in Silicon Valley: CEO, CTO, Product Managers, UX, Customer Support
 
 * What we are learning about our Developer Experience
  
-* 1. Unproductive time multiplies as teams grow
-
+* 1. Unproductive time multiplies as squads grow
 [[./images/compiling.png]]
 
 ** We created a dedicated “Developer Productivity” squad
@@ -120,8 +119,7 @@ We like a functional programming style.
 Our compiler can detect a lot of that.
 WartRemover Scala plugin FTW.
 
-** The automated developer setup is really paying off in remote teams
-
+** The automated developer setup is really paying off in remote squads
 
 * 5. Maintaining our startup culture as we grow is hard
 
@@ -179,13 +177,19 @@ Bi-weekly office-hours with US product managers
 
 * What are we focusing on now?
 
-** Single queue of work for all product squads
-** Effective technical debt prioritisation
-** Technical career pathing
+** Effective Prioritisation
+Single queue of work for all product squads
+
+** Technical Debt
+Making sure we continually removing the things that slow us down
+
+** Technical Career Pathing
+Create clear growth paths within software engineering
 
 * Where to next?
 
-** Grow
+** *Grow*
+Collaborate. Deliver. Reflect. Repeat.
 
 * 5 things we learned
 
