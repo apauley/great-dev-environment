@@ -47,6 +47,12 @@ Two years later, and Jemstep has grown from a team of 18 people to about 90, spr
 
 ** We created a dedicated “Developer Productivity” squad
 
+** Find Developer Pain-Points
+   [[./images/muscle-spasms.png]]
+
+** Address Developer Pain-Points
+   [[./images/address-pain.jpeg]]
+
 
 * 2. Manual Developer onboarding does not scale
 
