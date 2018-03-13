@@ -31,7 +31,7 @@ Two years later, and Jemstep has grown from a team of 18 people to about 90, spr
 * Where we came from (2016)
 
 #+ATTR_REVEAL: :frag (appear)
-  - About 100,000 lines of  Scala code
+  - About 100,000 lines of Scala code
   - About 60,000 lines of JavaScript/CSS/HTML
   - Automated build pipelines
   - Daily deployments, triggered by QA
@@ -179,7 +179,13 @@ Bi-weekly office-hours with US product managers
 
 * What are we focusing on now?
 
+** Single queue of work for all product squads
+** Effective technical debt prioritisation
+** Technical career pathing
+
 * Where to next?
+
+** Grow
 
 * 5 things we learned
 
