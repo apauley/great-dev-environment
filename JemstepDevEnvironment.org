@@ -106,8 +106,11 @@ Ansible FTW
 
 * 4. Multi-site development is technically complex
 
-#+ATTR_REVEAL: :frag (appear)
+** 
+   [[./images/clocks.jpg]]
+
   - More time zones
+#+ATTR_REVEAL: :frag (appear)
   - Code quality and coding standards
   - Keep doing daily deployments
 
