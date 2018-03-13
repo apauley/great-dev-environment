@@ -202,6 +202,8 @@ Collaborate. Deliver. Reflect. Repeat.
   4. Reduce complexity by automating repetitive tasks
   5. Change how you communicate as you grow
 
+http://pauley.org.za/great-dev-environment/
+
 * Questions?
 :PROPERTIES:
 :reveal_background: ./images/forest-gnome.jpeg
