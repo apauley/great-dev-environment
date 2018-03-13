@@ -167,7 +167,15 @@ We still need to improve a lot here.
   - XP principle: on-site custumer
   - Knowledge gap: understanding new requirements
   - Long turn-around time for questions
-  - Bi-weekly office-hours with US product managers
+
+
+** Product managers and clients are in the USA
+
+  - XP principle: on-site custumer
+  - Knowledge gap: understanding new requirements
+  - Long turn-around time for questions
+
+Bi-weekly office-hours with US product managers
 
 * What are we focusing on now?
 
